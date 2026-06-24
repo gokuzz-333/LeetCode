@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokuzz-333/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/gokuzz-333/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/gokuzz-333/LeetCode/tree/master/0010-regular-expression-matching) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gokuzz-333/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gokuzz-333/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gokuzz-333/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/gokuzz-333/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
