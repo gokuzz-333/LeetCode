@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gokuzz-333/LeetCode/tree/master/0001-two-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gokuzz-333/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gokuzz-333/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokuzz-333/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gokuzz-333/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gokuzz-333/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
