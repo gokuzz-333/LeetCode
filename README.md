@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gokuzz-333/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokuzz-333/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/gokuzz-333/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/gokuzz-333/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gokuzz-333/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gokuzz-333/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokuzz-333/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gokuzz-333/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gokuzz-333/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokuzz-333/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gokuzz-333/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gokuzz-333/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
