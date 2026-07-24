@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gokuzz-333/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gokuzz-333/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/gokuzz-333/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/gokuzz-333/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gokuzz-333/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokuzz-333/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gokuzz-333/LeetCode/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/gokuzz-333/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gokuzz-333/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/gokuzz-333/LeetCode/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokuzz-333/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokuzz-333/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gokuzz-333/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
