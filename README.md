@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gokuzz-333/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/gokuzz-333/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/gokuzz-333/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/gokuzz-333/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gokuzz-333/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/gokuzz-333/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gokuzz-333/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/gokuzz-333/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gokuzz-333/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/gokuzz-333/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gokuzz-333/LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokuzz-333/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gokuzz-333/LeetCode/tree/master/0877-stone-game) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gokuzz-333/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gokuzz-333/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gokuzz-333/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
