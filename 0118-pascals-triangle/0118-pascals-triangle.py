@@ -1,17 +1,17 @@
-class Solution(object):
-    def nthrow(self,N):
-        row=[]
-        val=1
-        row.append(val)
-        for i in range(1,N):
-            val=val*(N-i)
-            val=val//i
-            row.append(val)
-        return row
-    
-    def generate(self, numRows):
-        fans=[]
-        for i in range(1,numRows+1):
-            ans=self.nthrow(i)
-            fans.append(list(ans))
-        return list(fans)
+class Solution:
+
+    def generate(self, r):
+        result = []
+
+        for i in range(1, r + 1):
+            ans = [1]
+            res = 1
+
+            for col in range(1, i):
+                res = res * (i - col)
+                res = res // col
+                ans.append(res)
+
+            result.append(ans)
+
+        return result
