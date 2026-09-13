@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gokuzz-333/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gokuzz-333/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/gokuzz-333/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gokuzz-333/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gokuzz-333/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokuzz-333/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gokuzz-333/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gokuzz-333/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gokuzz-333/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gokuzz-333/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gokuzz-333/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokuzz-333/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokuzz-333/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/gokuzz-333/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/gokuzz-333/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gokuzz-333/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gokuzz-333/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
