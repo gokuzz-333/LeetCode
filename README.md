@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gokuzz-333/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/gokuzz-333/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/gokuzz-333/LeetCode/tree/master/0877-stone-game) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gokuzz-333/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gokuzz-333/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gokuzz-333/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokuzz-333/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/gokuzz-333/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gokuzz-333/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gokuzz-333/LeetCode/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gokuzz-333/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Game Theory
 |  |
 | ------- |
