@@ -10,6 +10,10 @@ class Solution(object):
                 load+=w
         return day
     def shipWithinDays(self, weights, days):
+        if days==1:
+            return sum(weights) 
+        if days==len(weights):
+            return max(weights)  
         low=max(weights)
         high=sum(weights)
         while(low<=high):
