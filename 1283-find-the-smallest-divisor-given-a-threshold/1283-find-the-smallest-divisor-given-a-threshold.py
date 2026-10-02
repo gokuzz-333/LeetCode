@@ -1,4 +1,4 @@
-import math
+
 class Solution(object):
     def smallestDivisor(self, nums, threshold):
         low=1
