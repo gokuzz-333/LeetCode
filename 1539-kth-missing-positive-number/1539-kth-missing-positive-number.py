@@ -9,5 +9,5 @@ class Solution(object):
                 low=mid+1
             else:
                 high=mid-1
-        return low+k
+        return k+high+1
         
