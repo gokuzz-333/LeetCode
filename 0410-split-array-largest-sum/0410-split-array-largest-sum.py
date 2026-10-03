@@ -1,24 +1,25 @@
 class Solution(object):
     def splitArray(self, nums, k):
-        low = max(nums)
-        high = sum(nums)
+        left = max(nums)
+        right = sum(nums)
 
-        while low <= high:
-            mid = (low + high) // 2
+        while left < right:
+            mid = (left + right) // 2
 
             count = 1
-            current = 0
+            current_sum = 0
 
             for num in nums:
-                if current + num > mid:
+                if current_sum + num > mid:
                     count += 1
-                    current = num
+                    current_sum = num
                 else:
-                    current += num
+                    current_sum += num
 
             if count > k:
-                low = mid + 1
+                left = mid + 1
             else:
-                high = mid - 1
+                right = mid
 
-        return low
+        return left;
+        
