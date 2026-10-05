@@ -1,34 +1,43 @@
 class Solution {
-    public int myAtoi(String a) {
-        int i=0;
-        long res=0;
-        int sign=1;
-        String s=a.trim();
-        if(s.length()==0){
-            return 0;
-        }
-        if(s.charAt(0)=='-'){
-            sign=-1;
-            i++;
-        }
-        else if(s.charAt(0)=='+'){
-            i++;
-        }
-        while(i<s.length()){
-            char ch=s.charAt(i);
-            if(ch<'0'||ch>'9'){
-                break;
-            }
-            res=res*10+(ch-'0');
-            if((sign*res)>Integer.MAX_VALUE){
-                return Integer.MAX_VALUE;
-            }
-            else if((sign*res)<Integer.MIN_VALUE){
-                return Integer.MIN_VALUE;
-            }
-            i++;
-        }
-        return (int)(sign*res);
 
+    public int myAtoi(String s) {
+
+        int i = 0;
+        int sign = 1;
+        int ans = 0;
+
+        // 1. Remove leading spaces
+        while(i < s.length() && s.charAt(i) == ' ') {
+            i++;
+        }
+
+        // 2. Check sign
+        if(i < s.length() && s.charAt(i) == '-') {
+            sign = -1;
+            i++;
+        }
+        else if(i < s.length() && s.charAt(i) == '+') {
+            i++;
+        }
+
+        // 3. Convert digits
+        while(i < s.length() && 
+              s.charAt(i) >= '0' && s.charAt(i) <= '9') {
+
+            int digit = s.charAt(i) - '0';
+
+            // 4. Check overflow
+            if(ans > (Integer.MAX_VALUE - digit) / 10) {
+                if(sign == 1)
+                    return Integer.MAX_VALUE;
+                else
+                    return Integer.MIN_VALUE;
+            }
+
+            ans = ans * 10 + digit;
+            i++;
+        }
+
+        return ans * sign;
     }
 }
