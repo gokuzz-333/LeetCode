@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gokuzz-333/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/gokuzz-333/LeetCode/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokuzz-333/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/gokuzz-333/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gokuzz-333/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/gokuzz-333/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/gokuzz-333/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokuzz-333/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokuzz-333/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/gokuzz-333/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gokuzz-333/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/gokuzz-333/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
