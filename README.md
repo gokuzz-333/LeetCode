@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gokuzz-333/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gokuzz-333/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gokuzz-333/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/gokuzz-333/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gokuzz-333/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gokuzz-333/LeetCode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokuzz-333/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/gokuzz-333/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/gokuzz-333/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/gokuzz-333/LeetCode/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
 | ------- |
