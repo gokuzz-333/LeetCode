@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gokuzz-333/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gokuzz-333/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gokuzz-333/LeetCode/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/gokuzz-333/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokuzz-333/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gokuzz-333/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokuzz-333/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
