@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gokuzz-333/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/gokuzz-333/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/gokuzz-333/LeetCode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/gokuzz-333/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/gokuzz-333/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokuzz-333/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokuzz-333/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokuzz-333/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/gokuzz-333/LeetCode/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
