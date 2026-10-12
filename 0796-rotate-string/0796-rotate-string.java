@@ -4,6 +4,9 @@ class Solution {
             //throw exception on A and B both being null?
             return false;
         }
+        if(s.length() == 0) {
+            return true;
+        }
         if(s.length()!=goal.length()){
             return false;
         }
