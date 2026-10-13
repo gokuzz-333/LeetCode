@@ -1,33 +1,35 @@
-
 class Solution {
     public String frequencySort(String s) {
-        Map<Character, Integer> mp = new HashMap<>();
-        TreeMap<Integer, List<Character>> r = new TreeMap<>(Collections.reverseOrder());
-        StringBuilder ss = new StringBuilder();
+        Map<Character, Integer> freq = new HashMap<>();
 
-        for (char a : s.toCharArray())
-            mp.put(a, mp.getOrDefault(a, 0) + 1);
-
-        for (Map.Entry<Character, Integer> entry : mp.entrySet()) {
-            if (!r.containsKey(entry.getValue())) {
-                r.put(entry.getValue(), new ArrayList<>());
-            }
-            r.get(entry.getValue()).add(entry.getKey());
+        for (char c : s.toCharArray()) {
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
         }
 
-        for (Map.Entry<Integer, List<Character>> entry : r.entrySet()) {
-            int freq = entry.getKey();
-            List<Character> chars = entry.getValue();
-            for (char c : chars) {
-                for (int i = 0; i < freq; i++) {
-                    ss.append(c);
+        List<Character>[] bucket = new List[s.length() + 1];
+
+        for (char c : freq.keySet()) {
+            int count = freq.get(c);
+
+            if (bucket[count] == null) {
+                bucket[count] = new ArrayList<>();
+            }
+
+            bucket[count].add(c);
+        }
+
+        StringBuilder ans = new StringBuilder();
+
+        for (int i = bucket.length - 1; i >= 1; i--) {
+            if (bucket[i] != null) {
+                for (char c : bucket[i]) {
+                    for (int j = 0; j < i; j++) {
+                        ans.append(c);
+                    }
                 }
             }
         }
 
-        return ss.toString();
+        return ans.toString();
     }
 }
-
-
-
