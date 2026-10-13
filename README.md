@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gokuzz-333/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gokuzz-333/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/gokuzz-333/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/gokuzz-333/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/gokuzz-333/LeetCode/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokuzz-333/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gokuzz-333/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gokuzz-333/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gokuzz-333/LeetCode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/gokuzz-333/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/gokuzz-333/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/gokuzz-333/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokuzz-333/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/gokuzz-333/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gokuzz-333/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gokuzz-333/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gokuzz-333/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gokuzz-333/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gokuzz-333/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/gokuzz-333/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokuzz-333/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gokuzz-333/LeetCode/tree/master/0645-set-mismatch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokuzz-333/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gokuzz-333/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gokuzz-333/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -388,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gokuzz-333/LeetCode/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gokuzz-333/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
